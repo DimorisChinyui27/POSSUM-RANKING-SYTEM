@@ -1,0 +1,10 @@
+{
+"PlayerUserID": 3,
+"Win_status": true,
+"AllUsersTopicData": [
+    {"UserID":1, "Rating":25.0,"Confidence_Score":8.333333333333334},  
+    {"UserID":2, "Rating":25.0,"Confidence_Score":8.333333333333334},  
+    {"UserID":3, "Rating":25.0,"Confidence_Score":8.333333333333334},  
+    {"UserID":4, "Rating":25.0,"Confidence_Score":8.333333333333334}  
+]
+}
